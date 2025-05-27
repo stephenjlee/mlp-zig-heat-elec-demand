@@ -1,0 +1,23 @@
+name: demand-heat-run
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - cudatoolkit=11.2.2
+  - cudnn
+  - python-dotenv
+  - numpy=1.24.3
+  - geopandas
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - openpyxl
+  - scipy
+  - scikit-learn
+  - pip:
+      - tensorboard==2.9.1
+      - tensorflow==2.9.1
+      - tensorflow-probability==0.17.0
