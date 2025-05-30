@@ -20,12 +20,13 @@ If you use this model, please cite our corresponding paper:
 
   * Bibtex:
     ~~~
-    @article{lee2025forecasting,
-      title={Forecasting Residential Heating and Electricity Demand with Scalable, High-Resolution, Open-Source Models},
-      author={Lee, Stephen J. and Drouin, Cailinn},
-      journal={arXiv preprint},
+    @misc{lee2025forecastingresidentialheatingelectricity,
+      title={Forecasting Residential Heating and Electricity Demand with Scalable, High-Resolution, Open-Source Models}, 
+      author={Stephen J. Lee and Cailinn Drouin},
       year={2025},
-      note={Working Paper}
+      eprint={2505.22873},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2505.22873}, 
     }
     ~~~
 
